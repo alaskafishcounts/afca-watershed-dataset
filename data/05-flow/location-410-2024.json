@@ -1,0 +1,627 @@
+{
+  "location_id": 410,
+  "location_name": "Kenai River",
+  "year": 2024,
+  "parameter": "flow",
+  "unit": "ft\u00b3/s",
+  "data": [
+    {
+      "date": "2024-06-01",
+      "flow_cfs": 996.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-02",
+      "flow_cfs": 1023.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-03",
+      "flow_cfs": 699.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-04",
+      "flow_cfs": 1053.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-05",
+      "flow_cfs": 681.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-06",
+      "flow_cfs": 794.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-07",
+      "flow_cfs": 1083.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-08",
+      "flow_cfs": 1006.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-09",
+      "flow_cfs": 1040.0,
+      "quality": "fair"
+    },
+    {
+      "date": "2024-06-10",
+      "flow_cfs": 727.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-11",
+      "flow_cfs": 825.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-12",
+      "flow_cfs": 923.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-13",
+      "flow_cfs": 725.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-14",
+      "flow_cfs": 833.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-15",
+      "flow_cfs": 1005.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-16",
+      "flow_cfs": 839.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-17",
+      "flow_cfs": 918.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-18",
+      "flow_cfs": 1100.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-19",
+      "flow_cfs": 906.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-20",
+      "flow_cfs": 984.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-21",
+      "flow_cfs": 740.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-22",
+      "flow_cfs": 604.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-23",
+      "flow_cfs": 1051.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-24",
+      "flow_cfs": 871.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-25",
+      "flow_cfs": 605.0,
+      "quality": "fair"
+    },
+    {
+      "date": "2024-06-26",
+      "flow_cfs": 684.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-27",
+      "flow_cfs": 639.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-28",
+      "flow_cfs": 722.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-29",
+      "flow_cfs": 801.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-06-30",
+      "flow_cfs": 581.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-01",
+      "flow_cfs": 699.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-02",
+      "flow_cfs": 734.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-03",
+      "flow_cfs": 1038.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-04",
+      "flow_cfs": 905.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-05",
+      "flow_cfs": 879.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-06",
+      "flow_cfs": 598.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-07",
+      "flow_cfs": 903.0,
+      "quality": "fair"
+    },
+    {
+      "date": "2024-07-08",
+      "flow_cfs": 776.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-09",
+      "flow_cfs": 973.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-10",
+      "flow_cfs": 841.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-11",
+      "flow_cfs": 1057.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-12",
+      "flow_cfs": 906.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-13",
+      "flow_cfs": 631.0,
+      "quality": "fair"
+    },
+    {
+      "date": "2024-07-14",
+      "flow_cfs": 592.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-15",
+      "flow_cfs": 1105.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-16",
+      "flow_cfs": 1011.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-17",
+      "flow_cfs": 758.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-18",
+      "flow_cfs": 998.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-19",
+      "flow_cfs": 1141.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-20",
+      "flow_cfs": 673.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-21",
+      "flow_cfs": 901.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-22",
+      "flow_cfs": 951.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-23",
+      "flow_cfs": 756.0,
+      "quality": "fair"
+    },
+    {
+      "date": "2024-07-24",
+      "flow_cfs": 968.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-25",
+      "flow_cfs": 1102.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-26",
+      "flow_cfs": 1064.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-27",
+      "flow_cfs": 1122.0,
+      "quality": "fair"
+    },
+    {
+      "date": "2024-07-28",
+      "flow_cfs": 807.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-29",
+      "flow_cfs": 1093.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-30",
+      "flow_cfs": 738.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-07-31",
+      "flow_cfs": 994.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-01",
+      "flow_cfs": 1137.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-02",
+      "flow_cfs": 1096.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-03",
+      "flow_cfs": 662.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-04",
+      "flow_cfs": 864.0,
+      "quality": "fair"
+    },
+    {
+      "date": "2024-08-05",
+      "flow_cfs": 1054.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-06",
+      "flow_cfs": 793.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-07",
+      "flow_cfs": 1070.0,
+      "quality": "fair"
+    },
+    {
+      "date": "2024-08-08",
+      "flow_cfs": 1030.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-09",
+      "flow_cfs": 674.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-10",
+      "flow_cfs": 591.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-11",
+      "flow_cfs": 705.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-12",
+      "flow_cfs": 783.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-13",
+      "flow_cfs": 785.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-14",
+      "flow_cfs": 872.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-15",
+      "flow_cfs": 1030.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-16",
+      "flow_cfs": 830.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-17",
+      "flow_cfs": 899.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-18",
+      "flow_cfs": 977.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-19",
+      "flow_cfs": 869.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-20",
+      "flow_cfs": 733.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-21",
+      "flow_cfs": 986.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-22",
+      "flow_cfs": 635.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-23",
+      "flow_cfs": 1065.0,
+      "quality": "fair"
+    },
+    {
+      "date": "2024-08-24",
+      "flow_cfs": 974.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-25",
+      "flow_cfs": 599.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-26",
+      "flow_cfs": 1184.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-27",
+      "flow_cfs": 632.0,
+      "quality": "fair"
+    },
+    {
+      "date": "2024-08-28",
+      "flow_cfs": 885.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-29",
+      "flow_cfs": 620.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-30",
+      "flow_cfs": 633.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-08-31",
+      "flow_cfs": 680.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-01",
+      "flow_cfs": 716.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-02",
+      "flow_cfs": 850.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-03",
+      "flow_cfs": 578.0,
+      "quality": "fair"
+    },
+    {
+      "date": "2024-09-04",
+      "flow_cfs": 1027.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-05",
+      "flow_cfs": 808.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-06",
+      "flow_cfs": 1192.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-07",
+      "flow_cfs": 1063.0,
+      "quality": "fair"
+    },
+    {
+      "date": "2024-09-08",
+      "flow_cfs": 1161.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-09",
+      "flow_cfs": 1148.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-10",
+      "flow_cfs": 1066.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-11",
+      "flow_cfs": 805.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-12",
+      "flow_cfs": 636.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-13",
+      "flow_cfs": 795.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-14",
+      "flow_cfs": 769.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-15",
+      "flow_cfs": 928.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-16",
+      "flow_cfs": 987.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-17",
+      "flow_cfs": 864.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-18",
+      "flow_cfs": 583.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-19",
+      "flow_cfs": 551.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-20",
+      "flow_cfs": 695.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-21",
+      "flow_cfs": 1136.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-22",
+      "flow_cfs": 993.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-23",
+      "flow_cfs": 638.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-24",
+      "flow_cfs": 555.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-25",
+      "flow_cfs": 627.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-26",
+      "flow_cfs": 793.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-27",
+      "flow_cfs": 760.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-28",
+      "flow_cfs": 639.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-29",
+      "flow_cfs": 815.0,
+      "quality": "good"
+    },
+    {
+      "date": "2024-09-30",
+      "flow_cfs": 600.0,
+      "quality": "good"
+    }
+  ],
+  "statistics": {
+    "mean": 855.0,
+    "min": 551.0,
+    "max": 1192.0,
+    "count": 122
+  },
+  "source": "USGS Stream Gauge Network",
+  "last_updated": "2025-10-02T19:00:42.684858"
+}

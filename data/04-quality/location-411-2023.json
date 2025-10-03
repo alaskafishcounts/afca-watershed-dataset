@@ -1,0 +1,154 @@
+{
+  "location_id": 411,
+  "location_name": "Russian River",
+  "year": 2023,
+  "parameter": "water_quality",
+  "data": [
+    {
+      "date": "2023-06-01",
+      "ph": 6.8,
+      "dissolved_oxygen_mg_l": 9.3,
+      "turbidity_ntu": 8.8,
+      "conductivity_us_cm": 128.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-06-08",
+      "ph": 6.9,
+      "dissolved_oxygen_mg_l": 9.5,
+      "turbidity_ntu": 4.2,
+      "conductivity_us_cm": 158.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-06-15",
+      "ph": 7.4,
+      "dissolved_oxygen_mg_l": 9.1,
+      "turbidity_ntu": 7.4,
+      "conductivity_us_cm": 198.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-06-22",
+      "ph": 8.1,
+      "dissolved_oxygen_mg_l": 8.8,
+      "turbidity_ntu": 13.4,
+      "conductivity_us_cm": 89.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-06-29",
+      "ph": 6.8,
+      "dissolved_oxygen_mg_l": 11.9,
+      "turbidity_ntu": 13.9,
+      "conductivity_us_cm": 167.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-07-06",
+      "ph": 8.1,
+      "dissolved_oxygen_mg_l": 9.1,
+      "turbidity_ntu": 7.4,
+      "conductivity_us_cm": 163.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-07-13",
+      "ph": 7.7,
+      "dissolved_oxygen_mg_l": 11.7,
+      "turbidity_ntu": 3.2,
+      "conductivity_us_cm": 188.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-07-20",
+      "ph": 8.1,
+      "dissolved_oxygen_mg_l": 11.4,
+      "turbidity_ntu": 13.4,
+      "conductivity_us_cm": 148.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-07-27",
+      "ph": 7.9,
+      "dissolved_oxygen_mg_l": 9.2,
+      "turbidity_ntu": 7.7,
+      "conductivity_us_cm": 153.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-08-03",
+      "ph": 7.5,
+      "dissolved_oxygen_mg_l": 10.0,
+      "turbidity_ntu": 11.1,
+      "conductivity_us_cm": 142.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-08-10",
+      "ph": 7.6,
+      "dissolved_oxygen_mg_l": 10.9,
+      "turbidity_ntu": 12.2,
+      "conductivity_us_cm": 159.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-08-17",
+      "ph": 7.7,
+      "dissolved_oxygen_mg_l": 10.7,
+      "turbidity_ntu": 5.4,
+      "conductivity_us_cm": 119.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-08-24",
+      "ph": 8.1,
+      "dissolved_oxygen_mg_l": 8.9,
+      "turbidity_ntu": 8.1,
+      "conductivity_us_cm": 170.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-08-31",
+      "ph": 8.1,
+      "dissolved_oxygen_mg_l": 9.7,
+      "turbidity_ntu": 10.4,
+      "conductivity_us_cm": 132.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-09-07",
+      "ph": 8.1,
+      "dissolved_oxygen_mg_l": 10.6,
+      "turbidity_ntu": 6.8,
+      "conductivity_us_cm": 199.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-09-14",
+      "ph": 7.4,
+      "dissolved_oxygen_mg_l": 9.8,
+      "turbidity_ntu": 9.2,
+      "conductivity_us_cm": 159.0,
+      "quality": "good"
+    },
+    {
+      "date": "2023-09-21",
+      "ph": 7.0,
+      "dissolved_oxygen_mg_l": 8.8,
+      "turbidity_ntu": 9.3,
+      "conductivity_us_cm": 84.0,
+      "quality": "fair"
+    },
+    {
+      "date": "2023-09-28",
+      "ph": 8.1,
+      "dissolved_oxygen_mg_l": 10.2,
+      "turbidity_ntu": 0.8,
+      "conductivity_us_cm": 176.0,
+      "quality": "good"
+    }
+  ],
+  "source": "ADF&G Water Quality Monitoring",
+  "last_updated": "2025-10-02T19:00:42.717940"
+}

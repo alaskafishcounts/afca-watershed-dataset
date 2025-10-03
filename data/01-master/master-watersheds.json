@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-01-02T00:00:00Z",
+  "description": "Master watershed data for Alaska fish monitoring locations",
+  "watersheds": {
+    "410": {
+      "location_id": 410,
+      "location_name": "Kenai River",
+      "watershed_name": "Kenai River Watershed",
+      "drainage_area_sq_miles": 2100,
+      "drainage_area_sq_km": 5440,
+      "primary_tributaries": [
+        "Russian River",
+        "Moose River",
+        "Killey River"
+      ],
+      "watershed_boundary": {
+        "type": "FeatureCollection",
+        "features": []
+      },
+      "monitoring_stations": [
+        {
+          "station_id": "KRN001",
+          "station_name": "Kenai River at Soldotna",
+          "latitude": 60.4878,
+          "longitude": -151.0583,
+          "parameters": ["temperature", "flow", "quality"]
+        }
+      ],
+      "data_sources": [
+        {
+          "source": "USGS Watershed Boundary Dataset",
+          "url": "https://www.usgs.gov/national-hydrography/watershed-boundary-dataset",
+          "last_updated": "2024-01-01"
+        }
+      ]
+    }
+  }
+}

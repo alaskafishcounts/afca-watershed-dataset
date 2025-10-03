@@ -1,0 +1,51 @@
+{
+  "location_id": 410,
+  "location_name": "Kenai River",
+  "watershed_name": "Kenai River Watershed",
+  "drainage_area_sq_miles": 2100,
+  "drainage_area_sq_km": 5440,
+  "primary_tributaries": [
+    "Russian River",
+    "Moose River",
+    "Killey River"
+  ],
+  "watershed_boundary": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kenai River",
+          "drainage_area_sq_miles": 2100
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            []
+          ]
+        }
+      }
+    ]
+  },
+  "monitoring_stations": [
+    {
+      "station_id": "KRN410",
+      "station_name": "Kenai River Monitoring Station",
+      "latitude": 60.44385223076608,
+      "longitude": -151.55716281166897,
+      "parameters": [
+        "temperature",
+        "flow",
+        "quality"
+      ]
+    }
+  ],
+  "data_sources": [
+    {
+      "source": "USGS Watershed Boundary Dataset",
+      "url": "https://www.usgs.gov/national-hydrography/watershed-boundary-dataset",
+      "last_updated": "2024-01-01"
+    }
+  ],
+  "last_updated": "2025-10-02T19:00:42.727336"
+}

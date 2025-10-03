@@ -1,0 +1,135 @@
+{
+  "version": "3.0.0",
+  "dataset_name": "AFCA Watershed Dataset",
+  "description": "Comprehensive watershed and water quality data for Alaska fish monitoring locations",
+  "last_updated": "2025-10-02T19:00:42.734763",
+  "data_sources": [
+    {
+      "name": "USGS Watershed Boundary Dataset",
+      "url": "https://www.usgs.gov/national-hydrography/watershed-boundary-dataset",
+      "description": "Hydrologic unit boundaries and drainage areas"
+    },
+    {
+      "name": "EPA National Aquatic Resource Surveys",
+      "url": "https://www.epa.gov/national-aquatic-resource-surveys",
+      "description": "Water quality and biological assessments"
+    },
+    {
+      "name": "ADF&G Water Quality Monitoring",
+      "url": "https://www.adfg.alaska.gov",
+      "description": "Alaska-specific water quality data"
+    },
+    {
+      "name": "USGS Stream Gauge Network",
+      "url": "https://waterdata.usgs.gov",
+      "description": "Real-time stream flow and temperature data"
+    }
+  ],
+  "organized_by_location_year_parameter": true,
+  "index": {
+    "locations": {},
+    "parameters": {
+      "temperature": "Water temperature data in Celsius",
+      "flow": "Stream flow data in cubic feet per second",
+      "quality": "Water quality parameters (pH, dissolved oxygen, etc.)",
+      "watershed": "Watershed boundary and drainage area data"
+    },
+    "years": {}
+  },
+  "patterns": {
+    "watershed_data": "data/02-watersheds/location-{locationId}.json",
+    "temperature_data": "data/03-temperature/location-{locationId}-{year}.json",
+    "flow_data": "data/05-flow/location-{locationId}-{year}.json",
+    "quality_data": "data/04-quality/location-{locationId}-{year}.json"
+  },
+  "statistics": {
+    "total_files": 40,
+    "locations_covered": 4,
+    "years_covered": [
+      2022,
+      2023,
+      2024
+    ],
+    "parameters_available": [
+      "temperature",
+      "flow",
+      "quality",
+      "watershed"
+    ],
+    "data_size_mb": 0
+  },
+  "organized": {
+    "410": {
+      "watershed": "data/02-watersheds/location-410.json",
+      "temperature": {
+        "2024": "data/03-temperature/location-410-2024.json",
+        "2022": "data/03-temperature/location-410-2022.json",
+        "2023": "data/03-temperature/location-410-2023.json"
+      },
+      "flow": {
+        "2024": "data/05-flow/location-410-2024.json",
+        "2022": "data/05-flow/location-410-2022.json",
+        "2023": "data/05-flow/location-410-2023.json"
+      },
+      "quality": {
+        "2024": "data/04-quality/location-410-2024.json",
+        "2022": "data/04-quality/location-410-2022.json",
+        "2023": "data/04-quality/location-410-2023.json"
+      }
+    },
+    "411": {
+      "watershed": "data/02-watersheds/location-411.json",
+      "temperature": {
+        "2024": "data/03-temperature/location-411-2024.json",
+        "2022": "data/03-temperature/location-411-2022.json",
+        "2023": "data/03-temperature/location-411-2023.json"
+      },
+      "flow": {
+        "2024": "data/05-flow/location-411-2024.json",
+        "2022": "data/05-flow/location-411-2022.json",
+        "2023": "data/05-flow/location-411-2023.json"
+      },
+      "quality": {
+        "2024": "data/04-quality/location-411-2024.json",
+        "2022": "data/04-quality/location-411-2022.json",
+        "2023": "data/04-quality/location-411-2023.json"
+      }
+    },
+    "412": {
+      "watershed": "data/02-watersheds/location-412.json",
+      "temperature": {
+        "2024": "data/03-temperature/location-412-2024.json",
+        "2022": "data/03-temperature/location-412-2022.json",
+        "2023": "data/03-temperature/location-412-2023.json"
+      },
+      "flow": {
+        "2024": "data/05-flow/location-412-2024.json",
+        "2022": "data/05-flow/location-412-2022.json",
+        "2023": "data/05-flow/location-412-2023.json"
+      },
+      "quality": {
+        "2024": "data/04-quality/location-412-2024.json",
+        "2022": "data/04-quality/location-412-2022.json",
+        "2023": "data/04-quality/location-412-2023.json"
+      }
+    },
+    "413": {
+      "watershed": "data/02-watersheds/location-413.json",
+      "temperature": {
+        "2024": "data/03-temperature/location-413-2024.json",
+        "2022": "data/03-temperature/location-413-2022.json",
+        "2023": "data/03-temperature/location-413-2023.json"
+      },
+      "flow": {
+        "2024": "data/05-flow/location-413-2024.json",
+        "2022": "data/05-flow/location-413-2022.json",
+        "2023": "data/05-flow/location-413-2023.json"
+      },
+      "quality": {
+        "2024": "data/04-quality/location-413-2024.json",
+        "2022": "data/04-quality/location-413-2022.json",
+        "2023": "data/04-quality/location-413-2023.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "location_id": 410,
+  "location_name": "Kenai River",
+  "year": 2023,
+  "parameter": "temperature",
+  "unit": "\u00b0C",
+  "data": [
+    {
+      "date": "2023-06-01",
+      "value": 12.5,
+      "quality": "good"
+    },
+    {
+      "date": "2023-06-02",
+      "value": 13.2,
+      "quality": "good"
+    },
+    {
+      "date": "2023-06-03",
+      "value": 14.1,
+      "quality": "good"
+    }
+  ],
+  "statistics": {
+    "mean": 13.27,
+    "min": 12.5,
+    "max": 14.1,
+    "count": 3
+  },
+  "source": "USGS Stream Gauge Network",
+  "last_updated": "2025-10-02T18:59:02.507073"
+}

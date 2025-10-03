@@ -1,0 +1,49 @@
+{
+  "location_id": 411,
+  "location_name": "Russian River",
+  "watershed_name": "Russian River Watershed",
+  "drainage_area_sq_miles": 450,
+  "drainage_area_sq_km": 1165,
+  "primary_tributaries": [
+    "Russian River Falls"
+  ],
+  "watershed_boundary": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Russian River",
+          "drainage_area_sq_miles": 450
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            []
+          ]
+        }
+      }
+    ]
+  },
+  "monitoring_stations": [
+    {
+      "station_id": "KRN411",
+      "station_name": "Russian River Monitoring Station",
+      "latitude": 60.927522364076125,
+      "longitude": -150.65709098616946,
+      "parameters": [
+        "temperature",
+        "flow",
+        "quality"
+      ]
+    }
+  ],
+  "data_sources": [
+    {
+      "source": "USGS Watershed Boundary Dataset",
+      "url": "https://www.usgs.gov/national-hydrography/watershed-boundary-dataset",
+      "last_updated": "2024-01-01"
+    }
+  ],
+  "last_updated": "2025-10-02T19:00:42.728119"
+}

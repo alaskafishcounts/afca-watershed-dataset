@@ -1,0 +1,49 @@
+{
+  "location_id": 413,
+  "location_name": "Killey River",
+  "watershed_name": "Killey River Watershed",
+  "drainage_area_sq_miles": 320,
+  "drainage_area_sq_km": 829,
+  "primary_tributaries": [
+    "Killey Creek"
+  ],
+  "watershed_boundary": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Killey River",
+          "drainage_area_sq_miles": 320
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            []
+          ]
+        }
+      }
+    ]
+  },
+  "monitoring_stations": [
+    {
+      "station_id": "KRN413",
+      "station_name": "Killey River Monitoring Station",
+      "latitude": 60.365296720771305,
+      "longitude": -151.35566463748708,
+      "parameters": [
+        "temperature",
+        "flow",
+        "quality"
+      ]
+    }
+  ],
+  "data_sources": [
+    {
+      "source": "USGS Watershed Boundary Dataset",
+      "url": "https://www.usgs.gov/national-hydrography/watershed-boundary-dataset",
+      "last_updated": "2024-01-01"
+    }
+  ],
+  "last_updated": "2025-10-02T19:00:42.729506"
+}

@@ -1,0 +1,93 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2025-01-02T00:00:00Z",
+  "description": "Master water parameter definitions and measurement standards",
+  "parameters": {
+    "temperature": {
+      "id": "temp",
+      "name": "Water Temperature",
+      "unit": "°C",
+      "description": "Water temperature in Celsius",
+      "measurement_method": "Continuous monitoring with calibrated sensors",
+      "quality_standards": {
+        "optimal_salmon_spawning": "4-12°C",
+        "optimal_salmon_rearing": "8-16°C",
+        "lethal_threshold": ">22°C"
+      },
+      "data_frequency": "hourly",
+      "sources": [
+        "USGS Stream Gauge Network",
+        "ADF&G Water Quality Monitoring",
+        "EPA National Aquatic Resource Surveys"
+      ]
+    },
+    "flow": {
+      "id": "flow",
+      "name": "Stream Flow",
+      "unit": "ft³/s",
+      "description": "Stream discharge in cubic feet per second",
+      "measurement_method": "USGS stream gauge measurements",
+      "quality_standards": {
+        "low_flow_threshold": "<100 ft³/s",
+        "normal_flow_range": "100-1000 ft³/s",
+        "high_flow_threshold": ">1000 ft³/s"
+      },
+      "data_frequency": "daily",
+      "sources": [
+        "USGS Stream Gauge Network"
+      ]
+    },
+    "dissolved_oxygen": {
+      "id": "do",
+      "name": "Dissolved Oxygen",
+      "unit": "mg/L",
+      "description": "Dissolved oxygen concentration",
+      "measurement_method": "Water quality sensors and laboratory analysis",
+      "quality_standards": {
+        "optimal_salmon": ">6 mg/L",
+        "stress_threshold": "4-6 mg/L",
+        "lethal_threshold": "<4 mg/L"
+      },
+      "data_frequency": "weekly",
+      "sources": [
+        "ADF&G Water Quality Monitoring",
+        "EPA National Aquatic Resource Surveys"
+      ]
+    },
+    "ph": {
+      "id": "ph",
+      "name": "pH",
+      "unit": "pH units",
+      "description": "Water acidity/alkalinity",
+      "measurement_method": "pH sensors and laboratory analysis",
+      "quality_standards": {
+        "optimal_salmon": "6.5-8.5",
+        "acceptable_range": "6.0-9.0",
+        "stress_threshold": "<6.0 or >9.0"
+      },
+      "data_frequency": "weekly",
+      "sources": [
+        "ADF&G Water Quality Monitoring",
+        "EPA National Aquatic Resource Surveys"
+      ]
+    },
+    "turbidity": {
+      "id": "turbidity",
+      "name": "Turbidity",
+      "unit": "NTU",
+      "description": "Water clarity measurement",
+      "measurement_method": "Turbidity sensors",
+      "quality_standards": {
+        "excellent": "<1 NTU",
+        "good": "1-5 NTU",
+        "fair": "5-25 NTU",
+        "poor": ">25 NTU"
+      },
+      "data_frequency": "weekly",
+      "sources": [
+        "ADF&G Water Quality Monitoring",
+        "EPA National Aquatic Resource Surveys"
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "location_id": 412,
+  "location_name": "Moose River",
+  "watershed_name": "Moose River Watershed",
+  "drainage_area_sq_miles": 890,
+  "drainage_area_sq_km": 2305,
+  "primary_tributaries": [
+    "Moose Creek",
+    "Bear Creek"
+  ],
+  "watershed_boundary": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Moose River",
+          "drainage_area_sq_miles": 890
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            []
+          ]
+        }
+      }
+    ]
+  },
+  "monitoring_stations": [
+    {
+      "station_id": "KRN412",
+      "station_name": "Moose River Monitoring Station",
+      "latitude": 60.52345608465462,
+      "longitude": -151.08968199321026,
+      "parameters": [
+        "temperature",
+        "flow",
+        "quality"
+      ]
+    }
+  ],
+  "data_sources": [
+    {
+      "source": "USGS Watershed Boundary Dataset",
+      "url": "https://www.usgs.gov/national-hydrography/watershed-boundary-dataset",
+      "last_updated": "2024-01-01"
+    }
+  ],
+  "last_updated": "2025-10-02T19:00:42.729010"
+}
