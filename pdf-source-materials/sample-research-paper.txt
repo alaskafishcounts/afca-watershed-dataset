@@ -1,0 +1,27 @@
+Alaska Salmon Stream Temperature and Flow Analysis
+
+Abstract
+This study examines water temperature and flow patterns in Alaska salmon streams during the 2023 spawning season. Data was collected from multiple monitoring stations including the Kenai River, Russian River, and Moose River systems.
+
+Methods
+Water temperature was measured using calibrated sensors at 15-minute intervals. Stream flow was monitored using USGS stream gauges. Data collection occurred from June 1 to September 30, 2023.
+
+Results
+Kenai River
+The Kenai River showed average water temperatures of 12.5°C during the study period. Peak temperatures reached 18.2°C in mid-July. Stream flow averaged 850 ft³/s with peak flows of 1,200 ft³/s during spring runoff.
+
+Russian River
+The Russian River exhibited cooler temperatures with an average of 11.8°C. Maximum temperature was 16.5°C. Flow patterns showed average discharge of 180 ft³/s with seasonal variations.
+
+Moose River
+Moose River temperatures averaged 13.1°C with peak values of 17.8°C. Stream flow averaged 520 ft³/s with maximum flows of 800 ft³/s.
+
+Discussion
+Water temperature patterns correlated strongly with salmon spawning success. Optimal temperatures for salmon were observed between 10-15°C. Flow rates above 100 ft³/s provided adequate spawning habitat.
+
+Conclusion
+Monitoring of water temperature and flow is essential for salmon conservation in Alaska streams. The data presented here provides baseline information for future management decisions.
+
+References
+USGS Stream Gauge Network. 2023. Real-time water data for Alaska.
+ADF&G. 2023. Salmon monitoring program annual report.

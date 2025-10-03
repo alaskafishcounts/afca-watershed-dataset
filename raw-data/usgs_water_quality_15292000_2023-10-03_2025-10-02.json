@@ -1,0 +1,53 @@
+{
+  "name": "ns1:timeSeriesResponseType",
+  "declaredType": "org.cuahsi.waterml.TimeSeriesResponseType",
+  "scope": "javax.xml.bind.JAXBElement$GlobalScope",
+  "value": {
+    "queryInfo": {
+      "queryURL": "http://nwis.waterservices.usgs.gov/nwis/iv/format=json&sites=15292000&startDT=2023-10-03&endDT=2025-10-02&parameterCd=00010%2C00095%2C00094%2C00076%2C00400%2C00403%2C00405&siteStatus=all",
+      "criteria": {
+        "locationParam": "[ALL:15292000]",
+        "variableParam": "[00010, 00095, 00094, 00076, 00400, 00403, 00405]",
+        "timeParam": {
+          "beginDateTime": "2023-10-03T00:00:00.000",
+          "endDateTime": "2025-10-02T23:59:59.000"
+        },
+        "parameter": []
+      },
+      "note": [
+        {
+          "value": "[ALL:15292000]",
+          "title": "filter:sites"
+        },
+        {
+          "value": "[mode=RANGE, modifiedSince=null] interval={INTERVAL[2023-10-03T00:00:00.000-04:00/2025-10-02T23:59:59.000Z]}",
+          "title": "filter:timeRange"
+        },
+        {
+          "value": "methodIds=[ALL]",
+          "title": "filter:methodId"
+        },
+        {
+          "value": "2025-10-03T03:25:28.718Z",
+          "title": "requestDT"
+        },
+        {
+          "value": "9c132bd0-a008-11f0-9a0d-4cd98f8df011",
+          "title": "requestId"
+        },
+        {
+          "value": "Provisional data are subject to revision. Go to http://waterdata.usgs.gov/nwis/help/?provisional for more information.",
+          "title": "disclaimer"
+        },
+        {
+          "value": "nadww01",
+          "title": "server"
+        }
+      ]
+    },
+    "timeSeries": []
+  },
+  "nil": false,
+  "globalScope": true,
+  "typeSubstituted": false
+}

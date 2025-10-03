@@ -1,0 +1,48 @@
+{
+  "download_date": "2025-10-02T19:25:28.703548",
+  "stations": [
+    {
+      "station_id": "15284000",
+      "files": [
+        "usgs_instantaneous_15284000_2023-10-03_2025-10-02.json",
+        "usgs_daily_15284000_2023-10-03_2025-10-02.json"
+      ],
+      "file_count": 2
+    },
+    {
+      "station_id": "15276000",
+      "files": [
+        "usgs_daily_15276000_2023-10-03_2025-10-02.json",
+        "usgs_instantaneous_15276000_2023-10-03_2025-10-02.json"
+      ],
+      "file_count": 2
+    },
+    {
+      "station_id": "quality",
+      "files": [
+        "usgs_water_quality_15276000_2023-10-03_2025-10-02.json",
+        "usgs_water_quality_15284000_2023-10-03_2025-10-02.json",
+        "usgs_water_quality_15292000_2023-10-03_2025-10-02.json",
+        "usgs_water_quality_15290000_2023-10-03_2025-10-02.json"
+      ],
+      "file_count": 4
+    },
+    {
+      "station_id": "15292000",
+      "files": [
+        "usgs_instantaneous_15292000_2023-10-03_2025-10-02.json",
+        "usgs_daily_15292000_2023-10-03_2025-10-02.json"
+      ],
+      "file_count": 2
+    },
+    {
+      "station_id": "15290000",
+      "files": [
+        "usgs_instantaneous_15290000_2023-10-03_2025-10-02.json",
+        "usgs_daily_15290000_2023-10-03_2025-10-02.json"
+      ],
+      "file_count": 2
+    }
+  ],
+  "total_files": 12
+}
